@@ -1,0 +1,12 @@
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\bin\Debug\net5.0\ToDoApp.DataAccess.deps.json
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\bin\Debug\net5.0\ToDoApp.DataAccess.dll
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\bin\Debug\net5.0\ref\ToDoApp.DataAccess.dll
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\bin\Debug\net5.0\ToDoApp.DataAccess.pdb
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.csproj.AssemblyReference.cache
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.AssemblyInfoInputs.cache
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.AssemblyInfo.cs
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.csproj.CoreCompileInputs.cache
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.dll
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ref\ToDoApp.DataAccess.dll
+G:\ToDo.Sample.root\WebAPI\ToDo.Repository\obj\Debug\net5.0\ToDoApp.DataAccess.pdb
